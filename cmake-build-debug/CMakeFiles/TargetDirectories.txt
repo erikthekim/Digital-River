@@ -1,0 +1,3 @@
+/home/Erik/CLionProjects/untitled/Digital-River/cmake-build-debug/CMakeFiles/Digital_River.dir
+/home/Erik/CLionProjects/untitled/Digital-River/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Erik/CLionProjects/untitled/Digital-River/cmake-build-debug/CMakeFiles/rebuild_cache.dir
